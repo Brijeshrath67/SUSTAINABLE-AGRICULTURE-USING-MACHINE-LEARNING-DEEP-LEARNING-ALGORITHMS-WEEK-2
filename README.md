@@ -1,3 +1,5 @@
+![Progress](https://img.shields.io/badge/Progress-60%25-blue)
+
 🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS WEEK-2
 
 This week focuses on feature engineering, model training, testing, and visualization to move towards building accurate and reliable sustainable farming solutions.
