@@ -1,4 +1,4 @@
-🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS
+🌱 SUSTAINABLE AGRICULTURE USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS WEEK-2
 
 This week focuses on feature engineering, model training, testing, and visualization to move towards building accurate and reliable sustainable farming solutions.
 
